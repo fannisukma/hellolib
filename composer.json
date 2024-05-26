@@ -1,0 +1,19 @@
+{
+    "name": "kepl/hellolib",
+    "description": "Contoh Library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kepl\\Hellolib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fannisukma",
+            "email": "fannisukma@pnp.ac.id"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
